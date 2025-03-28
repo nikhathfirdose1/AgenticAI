@@ -1,0 +1,5 @@
+LangChain is a powerful framework designed for building applications with large language models (LLMs). It provides components for chat models, embeddings, memory, agents, tools, and vector stores.
+
+LangChain supports integration with OpenAI, Hugging Face, Google Gemini, and many more APIs. It is commonly used for Retrieval Augmented Generation (RAG), chatbots, document QA systems, and autonomous agents.
+
+One of the key features is the ability to combine a chat model with a vector store to answer queries based on custom document knowledge. LangSmith can be used to trace and debug LangChain applications in real time.
