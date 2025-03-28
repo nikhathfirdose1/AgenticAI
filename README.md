@@ -44,6 +44,5 @@ Note: make sure .env file is NOT committed to GitHub
 ## 4 Output
 
 The terminal will print a prompt and a Gemini-generated summary of your document.
-```bash
+
 ![Sample Output](output.png)
-```
